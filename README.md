@@ -64,23 +64,5 @@ We are seeking a skilled Data Scientist... [rest of description]
 ## Output
 The app will display a similarity score, skill matches (e.g., Python, SQL), missing skills (e.g., PyTorch), and suggestions.
 
-D:\BCS\Resume Analyzer\
-├── app.py
-├── utils\
-│   ├── __init__.py
-│   ├── file_processing.py
-│   ├── nlp_processing.py
-│   ├── analysis.py
-│   ├── visualization.py
-├── styles\
-│   └── styles.css
-└── requirements.txt
+<img width="518" height="332" alt="image" src="https://github.com/user-attachments/assets/86479365-3d72-45b9-aad1-7223cd97cd64" />
 
-
-Built with Streamlit for an interactive UI.
-Powered by spaCy for NLP capabilities.
-Visualization support from Plotly.
-
-Contact
-For questions or support, please open an issue on the GitHub repository or contact the maintainers.
-Happy resume optimizing!```
