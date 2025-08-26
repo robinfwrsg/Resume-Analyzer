@@ -63,32 +63,7 @@ We are seeking a skilled Data Scientist... [rest of description]
 
 Output: The app will display a similarity score, skill matches (e.g., Python, SQL), missing skills (e.g., PyTorch), and suggestions.
 
-Project Structure
-resume-analyzer/
-├── app.py              # Main Streamlit application
-├── utils/              # Utility modules
-│   ├── __init__.py    # Package initialization
-│   ├── file_processing.py  # File extraction logic
-│   ├── nlp_processing.py   # NLP preprocessing
-│   ├── analysis.py        # Core analysis and recommendations
-│   ├── visualization.py   # Chart generation
-├── styles/             # CSS styles
-│   └── styles.css     # Custom styling
-└── requirements.txt    # Dependency list
 
-Contributing
-We welcome contributions! To contribute:
-
-Fork the repository.
-Create a new branch: git checkout -b feature-branch.
-Make your changes and commit: git commit -m "Description of changes".
-Push to your fork: git push origin feature-branch.
-Open a Pull Request with a clear description of your changes.
-
-Please ensure your code follows PEP 8 style guidelines and includes tests where applicable.
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
-Acknowledgments
 
 Built with Streamlit for an interactive UI.
 Powered by spaCy for NLP capabilities.
