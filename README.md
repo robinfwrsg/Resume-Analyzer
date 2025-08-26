@@ -43,7 +43,7 @@ streamlit run app.py
 Open your browser and navigate to http://localhost:8501.
 
 
-Usage
+##Usage
 
 Upload Resume: Use the file uploader to submit your resume (PDF or DOCX, max 200MB).
 Input Job Description: Paste the job description into the provided text area.
@@ -51,7 +51,7 @@ Analyze: Click "Analyze Resume" to generate insights, metrics, and visualization
 Review: Check matched skills, missing skills, and recommendations.
 Export: Download a report for your records.
 
-Example
+##Example
 
 Resume: Upload a DOCX file containing your experience and skills.
 Job Description: Paste a job posting text, e.g.:Data Scientist
@@ -61,7 +61,7 @@ Job Overview
 We are seeking a skilled Data Scientist... [rest of description]
 
 
-Output: The app will display a similarity score, skill matches (e.g., Python, SQL), missing skills (e.g., PyTorch), and suggestions.
+##Output: The app will display a similarity score, skill matches (e.g., Python, SQL), missing skills (e.g., PyTorch), and suggestions.
 
 
 
