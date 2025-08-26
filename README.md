@@ -64,6 +64,17 @@ We are seeking a skilled Data Scientist... [rest of description]
 ## Output
 The app will display a similarity score, skill matches (e.g., Python, SQL), missing skills (e.g., PyTorch), and suggestions.
 
+D:\BCS\Resume Analyzer\
+├── app.py
+├── utils\
+│   ├── __init__.py
+│   ├── file_processing.py
+│   ├── nlp_processing.py
+│   ├── analysis.py
+│   ├── visualization.py
+├── styles\
+│   └── styles.css
+└── requirements.txt
 
 
 Built with Streamlit for an interactive UI.
