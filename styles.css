@@ -1,0 +1,83 @@
+body {
+    background-color: #f7f9fc;
+    font-family: 'Inter', sans-serif;
+}
+.main-header {
+    font-size: 2.5rem;
+    font-weight: 700;
+    text-align: center;
+    margin: 2rem 0;
+    color: #1a3c34;
+    text-shadow: 1px 1px 2px rgba(0,0,0,0.1);
+}
+.subheader {
+    font-size: 1.5rem;
+    color: #2e4a62;
+    margin-top: 1.5rem;
+    margin-bottom: 1rem;
+}
+.metric-card {
+    background: linear-gradient(135deg, #ffffff, #f0f4f8);
+    padding: 1.5rem;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    margin: 0.5rem 0;
+    border-left: 4px solid #4a90e2;
+    transition: transform 0.2s ease-in-out;
+}
+.metric-card:hover {
+    transform: translateY(-3px);
+}
+.skill-tag {
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    margin: 0.3rem;
+    background-color: #e6f3ff;
+    border-radius: 20px;
+    border: 1px solid #4a90e2;
+    font-size: 0.9rem;
+    color: #2e4a62;
+    transition: background-color 0.2s;
+}
+.skill-tag:hover {
+    background-color: #4a90e2;
+    color: white;
+}
+.missing-skill-tag {
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    margin: 0.3rem;
+    background-color: #fff1f0;
+    border-radius: 20px;
+    border: 1px solid #e57373;
+    font-size: 0.9rem;
+    color: #d32f2f;
+}
+.missing-skill-tag:hover {
+    background-color: #e57373;
+    color: white;
+}
+.stButton>button {
+    background-color: #4a90e2;
+    color: white;
+    border-radius: 8px;
+    padding: 0.5rem 1.5rem;
+    font-weight: 500;
+    transition: background-color 0.2s;
+}
+.stButton>button:hover {
+    background-color: #357abd;
+}
+.sidebar-content {
+    background: #ffffff;
+    padding: 1.5rem;
+    border-radius: 12px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+}
+.recommendation {
+    background-color: #f8fafc;
+    padding: 1rem;
+    border-radius: 8px;
+    margin: 0.5rem 0;
+    border-left: 4px solid #26a69a;
+}
